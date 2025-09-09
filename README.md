@@ -3,7 +3,7 @@
 <h2>🔭I'm currently learning: </h2>
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Bike Share Analysis (Google Cert</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 📜 Certifications </h2>
