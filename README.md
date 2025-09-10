@@ -3,7 +3,7 @@
 <h2>🔭I'm currently learning: </h2>
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/blob/main/README.md)">Bike Share Analysis Project (Google Cert) </a> 
+- <b> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/tree/main">Bike Share Analysis Project (Google Cert) </a> 
   - 
 
 <h2> 📜 Certifications </h2>
