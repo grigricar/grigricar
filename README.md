@@ -3,10 +3,11 @@
 <h2>🔭I'm currently learning: </h2>
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Bike Share Analysis (Google Cert</b>
+- <b>Bike Share Analysis (Google Cert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 📜 Certifications </h2>
+- Google Data Analytics Professional Certificate (09/09/25)
 
 <h2>📺 Popular YouTube Videos</h2>
 
