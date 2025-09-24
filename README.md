@@ -1,16 +1,20 @@
 <h1>Welcome to Gregory's portfolio! <br/><a href="">Data Analyst</a>, <a href="">Aspirant Data Scientist</a>, <a href="">Educator</a></h1>
 <br>
+<h2>🔭I'm Currently Learning: </h2>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
   - <b> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/tree/main">Bike Share Analysis Project (Google Cert) </a> 
   - 
+<h2>👨‍💻 Python Projects:</h2>
 
+  - <b> <a href="https://github.com/grigricar/SA_Tax_Bracket_calculator"> South African Tax Bracket Calculator </a>
+    
 <h2> 📜 Certifications </h2>
 
   -   <b> <a href="https://www.coursera.org/learn/google-data-analytics-capstone/home/module/1">Google Data Analytics Professional Certificate (09/09/25) </a>
    
-<h2>🔭I'm Currently Learning: </h2>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
