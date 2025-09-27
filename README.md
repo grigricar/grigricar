@@ -2,6 +2,13 @@
 <br>
 <h2>🔭I'm Currently Learning: </h2>
 
+<ul> <li> (Hons) Data Science through the Open University. Last two second year modules and one third year: </li>
+  <br>
+  <ul> <li><a href="https://www.open.ac.uk/courses/modules/m249/">M249:</a> Practical Modern Statistics</li>
+        <li> <a href="https://www.open.ac.uk/courses/modules/m348/">M348:</a> Applied Statistical Modeling (Using R)</li>
+        <li> <a href="https://www.open.ac.uk/courses/modules/m269"> M269:</a> Algorithms, Data Structures and Computability </li> </ul>
+  <br>
+  <li>Advanced SQL querying techniques (on Udemy through Maven Analytics)</li> </ul>  
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
   - <b> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/tree/main">Bike Share Analysis Project (Google Cert) </a> 
@@ -9,20 +16,20 @@
 <h2>👨‍💻 Python Projects:</h2>
 
   - <b> <a href="https://github.com/grigricar/SA_Tax_Bracket_calculator"> South African Tax Bracket Calculator </a>
-    
+  - <b> <a href="https://github.com/grigricar/Quiz_game"> Quiz Game: Which is Bigger? </a>
+  
+ <h2> 🌱 What I have learnt </h2>  
+ 
 <h2> 📜 Certifications </h2>
 
   -   <b> <a href="https://www.coursera.org/learn/google-data-analytics-capstone/home/module/1">Google Data Analytics Professional Certificate (09/09/25) </a>
    
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Educational YouTube Videos on English </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
