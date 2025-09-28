@@ -36,12 +36,14 @@
 [<img align="left" alt="GregCarter | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [<img align="left" alt="GregCarter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="GregCarter | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 [youtube]: https://www.youtube.com/channel/UCCDNh1fC2C93zzyIj15fC0g
 
 [linkedin]: https://www.linkedin.com/in/gregory-carter-786813325/
+
+[gmail]: grigricarter@gmail.com
 
 <!--
 **grigricar/grigricar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
