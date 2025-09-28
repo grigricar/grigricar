@@ -43,7 +43,7 @@
 
 [linkedin]: https://www.linkedin.com/in/gregory-carter-786813325/
 
-[gmail]: <a href="mailto:grigricarter@gmail.com?subject=Your%20Subject%20Here&body=Your%20pre-written%20message%20body%20here.">Click here to send me an email</a>
+[gmail]: mailto:grigricarter@gmail.com?subject=Your%20Subject%20Here&body=Your%20pre-written%20message%20body%20here.
 
 <!--
 **grigricar/grigricar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
