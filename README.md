@@ -1,4 +1,5 @@
-<h1>Welcome to Gregory's portfolio! <br/><a href="">Data Analyst</a>, <a href="">Aspirant Data Scientist</a>, <a href="">Educator</a></h1>
+<h1>Welcome to Gregory's portfolio! </h1>
+<h2> Data Analyst | Aspirant Data Scientist | Educator</a></h2>
 <br>
 <h2>🔭I'm Currently Learning: </h2>
 
@@ -18,7 +19,7 @@
   - <b> <a href="https://github.com/grigricar/SA_Tax_Bracket_calculator"> South African Tax Bracket Calculator </a>
   - <b> <a href="https://github.com/grigricar/Quiz_game"> Quiz Game: Which is Bigger? </a>
   
- <h2> 🌱 What I have learnt </h2>  
+ <h2> 🌱 What I have learnt: </h2>  
  
 <h2> 📜 Certifications </h2>
 
@@ -28,22 +29,25 @@
 
 <h2>📺 Educational YouTube Videos on English </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- ['The White Tiger' by Aravind Adiga -- Consolidation](https://youtu.be/4s07y6YokZo)
+- [Answering Technique](https://youtu.be/4pTQFKdRVGY)
+- ['For Oom Piet' by Finuala Dowling -- Poetry Analysis](https://youtu.be/4pTQFKdRVGY)  
 
+<h2> 📫 Reach me at: </h2>
+<a> grigricarter@gmail.com </a>
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="GregCarter | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [<img align="left" alt="GregCarter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GregCarter | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 
 [youtube]: https://www.youtube.com/channel/UCCDNh1fC2C93zzyIj15fC0g
 
 [linkedin]: https://www.linkedin.com/in/gregory-carter-786813325/
 
-[gmail]: mailto:grigricarter@gmail.com?subject=Your%20Subject%20Here&body=Your%20pre-written%20message%20body%20here.
 
 <!--
 **grigricar/grigricar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
