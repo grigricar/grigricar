@@ -21,13 +21,13 @@
   
  <h2> 🌱 What I have learnt: </h2>  
  
-<h2> 📜 Certifications </h2>
+<h2> 📜 Certifications: </h2>
 
   -   <b> <a href="https://www.coursera.org/learn/google-data-analytics-capstone/home/module/1">Google Data Analytics Professional Certificate (09/09/25) </a>
    
 
 
-<h2>📺 Educational YouTube Videos on English </h2>
+<h2>📺 Educational YouTube Videos on English: </h2>
 
 - ['The White Tiger' by Aravind Adiga -- Consolidation](https://youtu.be/4s07y6YokZo)
 - [Answering Technique](https://youtu.be/4pTQFKdRVGY)
