@@ -33,7 +33,7 @@
  
 <h2> 📜 Certifications: </h2>
 
-  -   <b> <a href="https://www.coursera.org/learn/google-data-analytics-capstone/home/module/1">Google Data Analytics Professional Certificate (09/09/25) </a>
+  -   <b> <a href="https://coursera.org/share/11e58666f80a44fd5abc5f4d7dbc2dbd">Google Data Analytics Professional Certificate (09/09/25) </a>
    
 
 
