@@ -7,7 +7,7 @@
   <br>
   <ul> <li><a href="https://www.open.ac.uk/courses/modules/m249/">M249:</a> Practical Modern Statistics</li>
         <li> <a href="https://www.open.ac.uk/courses/modules/m348/">M348:</a> Applied Statistical Modeling (Using R)</li>
-        <li> <a href="https://www.open.ac.uk/courses/modules/m269"> M269:</a> Algorithms, Data Structures and Computability </li> </ul>
+        <li> <a href="https://www.open.ac.uk/courses/modules/m269"> M269:</a> Algorithms, Data Structures and Computability (With Python) </li> </ul>
   <br>
   <li>Advanced SQL querying techniques (on Udemy through Maven Analytics)</li> </ul>  
 <h2>👨‍💻 Data Analysis Projects:</h2>
