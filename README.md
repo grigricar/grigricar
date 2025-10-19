@@ -13,13 +13,23 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
   - <b> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/tree/main">Bike Share Analysis Project (Google Cert) </a> 
-  - 
+    
 <h2>👨‍💻 Python Projects:</h2>
 
   - <b> <a href="https://github.com/grigricar/SA_Tax_Bracket_calculator"> South African Tax Bracket Calculator </a>
   - <b> <a href="https://github.com/grigricar/Quiz_game"> Quiz Game: Which is Bigger? </a>
   
- <h2> 🌱 What I have learnt: </h2>  
+ <h2> 🌱 What I have learnt: </h2> 
+ <ul> <li>Open University Data Science Year 1:</li>
+ <ul> <li><a href="https://www.open.ac.uk/courses/qualifications/details/m140?orig=r38&setAcc=true">Introducing Statistics (M140) </a></li>
+       <li><a href="https://www.open.ac.uk/courses/qualifications/details/tm111?orig=r38">Introduction to Computing and Information Technology (TM111) </a></li>
+       <li><a href="https://www.open.ac.uk/courses/qualifications/details/tm112?orig=r38">Introduction to Computing and Information Technology (TM112) </a></li>
+       <li><a href="https://www.open.ac.uk/courses/qualifications/details/mst124?orig=r38">Essential Mathematics 1 (MST124) </a></li> </ul> </ul> 
+       <br>
+  <ul> <li> Open University Data Science Year 2: </li> 
+          <ul><li><a href="https://www.open.ac.uk/courses/qualifications/details/m248?orig=r38"> Analysing Data (M248) </a></li> 
+          <li><a href="https://www.open.ac.uk/courses/qualifications/details/mst224?orig=r38">Mathematical Methods (MST224) </a></li> </ul></ul>
+
  
 <h2> 📜 Certifications: </h2>
 
