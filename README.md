@@ -4,10 +4,11 @@
 <h2>🔭I'm Currently Learning: </h2>
 
 <ul> <li> (Hons) Data Science through the Open University. Final 3 Third Year Modules to complete: </li>
-  <br>
   <ul> 
-       
-        
+      <li><a href="https://msds.open.ac.uk/module-chooser/module-description.aspx?mod=TM358"> Machine Learning and Artificial Intelligence (TM358) </a></li> 
+      <li><a href="https://msds.open.ac.uk/module-chooser/module-description.aspx?mod=TM351"> Data Management and Analysis (TM351) </a></li> 
+      <li><a href="https://msds.open.ac.uk/module-chooser/module-description.aspx?mod=M343"> Applications of Probability (M343) </a></li> 
+  </ul>   
   <br>
   <li>Advanced SQL querying techniques (on Udemy through Maven Analytics)</li> </ul>  
 <h2>👨‍💻 Data Analysis Projects:</h2>
