@@ -3,11 +3,11 @@
 <br>
 <h2>🔭I'm Currently Learning: </h2>
 
-<ul> <li> (Hons) Data Science through the Open University. Last two second year modules and one third year: </li>
+<ul> <li> (Hons) Data Science through the Open University. Final 3 Third Year Modules to complete: </li>
   <br>
-  <ul> <li><a href="https://www.open.ac.uk/courses/modules/m249/">M249:</a> Practical Modern Statistics</li>
-        <li> <a href="https://www.open.ac.uk/courses/modules/m348/">M348:</a> Applied Statistical Modeling (Using R)</li>
-        <li> <a href="https://www.open.ac.uk/courses/modules/m269"> M269:</a> Algorithms, Data Structures and Computability (With Python) </li> </ul>
+  <ul> 
+       
+        
   <br>
   <li>Advanced SQL querying techniques (on Udemy through Maven Analytics)</li> </ul>  
 <h2>👨‍💻 Data Analysis Projects:</h2>
@@ -28,9 +28,14 @@
        <br>
   <ul> <li> Open University Data Science Year 2: </li> 
           <ul><li><a href="https://www.open.ac.uk/courses/qualifications/details/m248?orig=r38"> Analysing Data (M248) </a></li> 
-          <li><a href="https://www.open.ac.uk/courses/qualifications/details/mst224?orig=r38">Mathematical Methods (MST224) </a></li> </ul></ul>
-
- 
+          <li><a href="https://www.open.ac.uk/courses/qualifications/details/mst224?orig=r38">Mathematical Methods (MST224) </a></li> 
+          <li><a href="https://www.open.ac.uk/courses/modules/m249/"> Practical Modern Statistics (M249)</a></li>
+          <li> <a href="https://www.open.ac.uk/courses/modules/m269"> Algorithms, Data Structures and Computability, using Python (M269)</a> </li> 
+  </ul></ul>
+            <br>
+  <ul> <li> Open University Data Science Year 3: </li> 
+   <ul><li> <a href="https://www.open.ac.uk/courses/modules/m348/"> Applied Statistical Modeling, using R (M348)</li> </a>
+ </ul> </ul> 
 <h2> 📜 Certifications: </h2>
 
   -   <b> <a href="https://coursera.org/share/11e58666f80a44fd5abc5f4d7dbc2dbd">Google Data Analytics Professional Certificate (09/09/25) </a>
