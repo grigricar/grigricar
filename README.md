@@ -12,13 +12,14 @@
   <li>Advanced SQL querying techniques (on Udemy through Maven Analytics)</li> </ul>  
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-  - <b> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/tree/main">Bike Share Analysis Project (Google Cert) </a> 
+  - <b> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/tree/main">Bike Share Analysis Project (2025) </a> 
     
 <h2>👨‍💻 Python Projects:</h2>
-
-  - <b> <a href="https://github.com/grigricar/SA_Tax_Bracket_calculator"> South African Tax Bracket Calculator </a>
-  - <b> <a href="https://github.com/grigricar/Quiz_game"> Quiz Game: Which is Bigger? </a>
-  
+<ul>
+  <li> <a href="https://github.com/grigricar/greedy_algorithm_optimisation"> Greedy Algorithm Problem (2026) </a></li>
+  <li><a href="https://github.com/grigricar/SA_Tax_Bracket_calculator"> South African Tax Bracket Calculator (2025) </a></li>
+  <li><a href="https://github.com/grigricar/Quiz_game"> Quiz Game: Which is Bigger? (2025) </a></li>
+  </ul>
  <h2> 🌱 What I have learnt: </h2> 
  <ul> <li>Open University Data Science Year 1:</li>
  <ul> <li><a href="https://www.open.ac.uk/courses/qualifications/details/m140?orig=r38&setAcc=true">Introducing Statistics (M140) </a></li>
