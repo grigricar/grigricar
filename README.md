@@ -12,9 +12,11 @@
   <br>
   <li>Advanced SQL querying techniques (on Udemy through Maven Analytics)</li> </ul>  
 <h2>👨‍💻 Data Analysis Projects:</h2>
+<ul>
+  <li> <a href="https://github.com/grigricar/time_series_project"> Time Series Exploration in Python (2026) </a> </li>
+ <li> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/tree/main">Bike Share Analysis Project (2025) </a> </li>
 
-  - <b> <a href="https://github.com/grigricar/Bike-Share-Project-Google-Cert-/tree/main">Bike Share Analysis Project (2025) </a> 
-    
+</ul>
 <h2>👨‍💻 Python Projects:</h2>
 <ul>
   <li> <a href="https://github.com/grigricar/greedy_algorithm_optimisation"> Greedy Algorithm Problem (2026) </a></li>
